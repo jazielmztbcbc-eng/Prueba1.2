@@ -1,1 +1,4 @@
-# Prueba1.2
+# Encabezado Principal
+## Encabezado 2do nivel
+### Encabezado 3er nivel
+#### Encabezado 4to nivel
